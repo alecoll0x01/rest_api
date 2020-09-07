@@ -9,4 +9,6 @@
  - php artisan serve
 
 -------------------------------------
+
+Configure o banco de dados no criando um arquivo .env
  
